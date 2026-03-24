@@ -11,3 +11,4 @@ xgboost
 pulp
 scipy
 python-multipart
+python-jose[cryptography]
