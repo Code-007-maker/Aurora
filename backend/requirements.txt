@@ -11,4 +11,5 @@ xgboost
 pulp
 scipy
 python-multipart
+passlib[bcrypt]
 python-jose[cryptography]
